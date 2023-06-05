@@ -1,1 +1,1 @@
-# Lottery_Dapp
+# Lottery
